@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Hangman Game, Calculator, Algorithms and other projects**
 
-- 📫Reach me at: **abrart1075@gmail.com**
+- 📫Reach me at: **abrart1075@gmail.com** or **https://www.linkedin.com/in/abrar-tarafder-3592a4224/**
 
 - 📄 Know about my experiences from linkedin [https://www.linkedin.com/in/abrar-tarafder-3592a4224/](https://www.linkedin.com/in/abrar-tarafder-3592a4224/)
 
