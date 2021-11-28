@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abrar Tarafder</h1>
 <h3 align="center">A first year computer science student in Toronto, Canada, passionate about creating own projects</h3>
   
-<p align = "center">Although very new to coding, I wanted to start off with basics so I have done two very simple projects -- the first being implementing binary search and insert sort algorithms from pseudo code learned in class. Right now, I am currently learning c++ and Python and am trying to implement a hangman game from scratch as well as preferably make a very simple calculator and more games like the snake game and mad libs. As a beginner with minimal knowledge, I try to apply the skills learned in class as well as some self-taught skills to analyze and create very simple projects that yield to a higher understanding of code and algorithms.  Soon to be uploaded on Github!</p>
+<p align = "center">Although very new to coding, I wanted to start off with basics so I have done two very simple projects -- the first being implementing binary search and insert sort algorithms from pseudo code learned in class. Right now, I am currently learning c++ and Python and am trying to implement a hangman game from scratch as well as preferably make a very simple calculator and more games like the snake game and mad libs. As a beginner with minimal knowledge, I try to apply the skills learned in class as well as some self-taught skills to analyze and create very simple projects that yield to a higher understanding of code and algorithms. More projects and code soon to be uploaded on Github!</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrartarafder" alt="abrartarafder" /></a> </p>
 
