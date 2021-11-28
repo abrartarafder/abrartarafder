@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Hangman Game, Calculator, Algorithms and other projects**
+- 🔭 Currently working on: **Hangman Game, Calculator, Algorithms and other projects**
 
-- 🤝 I’m looking for help with **A snake game (yet to begin)**
+- 📫 Reach me at: **abrart1075@gmail.com**
 
-- 📫 How to reach me **abrart1075@gmail.com**
+- 📄 Know about my experiences: [https://www.linkedin.com/in/abrar-tarafder-3592a4224/](https://www.linkedin.com/in/abrar-tarafder-3592a4224/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abrar-tarafder-3592a4224/](https://www.linkedin.com/in/abrar-tarafder-3592a4224/)
-
-- ⚡ Fun fact **I love going to the gym, problem solving and being active on social media**
+- ⚡ Quick facts **I love going to the gym, problem solving and being active on social media**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
