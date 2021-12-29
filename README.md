@@ -11,7 +11,8 @@
 
 - 📫 Reach out to me at: **abrart1075@gmail.com**
 
-- 📄 Know about my experiences:  href="https://www.linkedin.com/in/abrar-tarafder-3592a4224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar tarafder" height="30" width="40" /></a>
+- 📄 Know about my experiences: [My LinkedIn](https://www.linkedin.com/in/abrar-tarafder-3592a4224/)
+
 - ⚡ Quick facts: **I love being active, problem solving and social media**
 
 <h3 align="left">Connect with me:</h3>
