@@ -9,11 +9,11 @@
 
 - 🔭 Currently working on: **Hangman Game, Calculator, Algorithms and other projects**
 
-- 📫 Reach me at: **abrart1075@gmail.com**
+- 📫 Reach out to me at: **abrart1075@gmail.com**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/abrar-tarafder-3592a4224/](https://www.linkedin.com/in/abrar-tarafder-3592a4224/)
 
-- ⚡ Quick facts **I love going to the gym, problem solving and being active on social media**
+- ⚡ Quick facts: **I love being active, problem solving and social media**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
