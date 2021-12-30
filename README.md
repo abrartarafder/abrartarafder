@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abrar Tarafder</h1>
 <h3 align="center">A first year computer science student in Toronto, Canada, passionate about creating own projects</h3>
   
-<p align = "center">Although very new to coding, I wanted to start off with basics so I have done two very simple projects -- the first being implementing binary search and insert sort algorithms from pseudo code learned in class. Right now, I am currently learning c++ and Python and am trying to implement a hangman game from scratch as well as preferably make a very simple calculator and more games like the snake game and mad libs. As a beginner with minimal knowledge, I try to apply the skills learned in class as well as some self-taught skills to analyze and create very simple projects that yield to a higher understanding of code and algorithms. More projects and code soon to be uploaded on Github!</p>
+<p align = "center">Although very new to coding, I wanted to start off with basics so I have done two very simple projects -- the first being implementing binary search and insert sort algorithms from pseudo code learned in class. Right now, I am currently learning c++ and Python and am trying to implement a hangman game from scratch as well as preferably make a very simple calculator and more games like the snake game and mad libs. I also plan to learn some Node JS in my free time as well. As a beginner with minimal knowledge, I try to apply the skills learned in class as well as some self-taught skills to analyze and create very simple projects that yield to a higher understanding of code and algorithms. More projects and code soon to be uploaded on Github!</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrartarafder" alt="abrartarafder" /></a> </p>
 
@@ -23,7 +23,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrartarafder&show_icons=true&locale=en&layout=compact" alt="abrartarafder" /></p>
 
