@@ -26,8 +26,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt="microsoftoffice" width="40" height="40"/>
-href="https://www.google.com/intl/en_ca/drive/" target="_blank" rel="noreferrer"> <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/d9/d6/bbd9d687-6161-870c-d843-3be99480f039/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220.png/1200x630wa.png" alt="googledrive" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrartarafder&show_icons=true&locale=en&layout=compact" alt="abrartarafder" /></p>
