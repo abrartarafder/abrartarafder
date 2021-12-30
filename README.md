@@ -21,7 +21,7 @@
 <a href="https://instagram.com/abrar.tarafder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrar.tarafder" height="30" width="40" /></a>
 <a href="https://discord.gg/rari1075#0787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rari1075#0787" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abrart1075" target="blank"><img align="center" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="abrart1075" height="30" width="30" /></a>
-<a href="https://web.skype.com/" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/app+global+ios+media+skype+social+icon-1320193329651422682.png" alt="abrart1075" height="30" width="30" /></a>
+<a href="https://replit.com/~" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/220px-Repl.it_logo.svg.png" alt="AbrarTarafder" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
