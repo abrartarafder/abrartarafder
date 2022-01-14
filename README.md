@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [My LinkedIn](https://www.linkedin.com/in/abrar-tarafder-3592a4224/)
 
-- Check out [my website](https://abrart1075.wixsite.com/my-site)
+- 📄 Check out my [website](https://abrart1075.wixsite.com/my-site)
 
 - ⚡ Quick facts: **I love being active, problem solving and social media**
 
