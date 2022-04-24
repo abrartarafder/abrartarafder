@@ -28,7 +28,7 @@
 
 <h3 align="left">All the Languages and Tools used:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</a>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg70yApkCpTHtZDhnmqfFRhEg0zTknE4Z04w&usqp=CAU" width="40" height="40"/> </a> </p
+</a><a href="https://riptutorial.com/assembly" target="blank">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg70yApkCpTHtZDhnmqfFRhEg0zTknE4Z04w&usqp=CAU" width="40" height="40"/> </a> </p
 </p>
 
 
