@@ -32,7 +32,7 @@
 </a><a href="https://www.w3schools.com/java/" target="blank">  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40"/> </a> </p
 </p>
 
-![](https://komarev.com/ghpvc/?username=abrartarafder&color=orange)
+<!-- ![](https://komarev.com/ghpvc/?username=abrartarafder&color=orange) -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrartarafder&show_icons=true&locale=en&layout=compact" alt="abrartarafder" /></p>
 
