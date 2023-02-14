@@ -1,4 +1,4 @@
-![Header](./[pic](https://user-images.githubusercontent.com/95165049/218830612-e1541dac-016f-4bf4-a952-a7726dc22b07.jpeg)
+![Header](./https://user-images.githubusercontent.com/95165049/218830612-e1541dac-016f-4bf4-a952-a7726dc22b07.jpeg)
 )
 <h1 align="center">Hi 👋, I'm Abrar Tarafder</h1>
 <h3 align="center">A Computer Science student in Mississauga, Canada, passionate about creating own projects</h3>
