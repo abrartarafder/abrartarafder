@@ -23,7 +23,7 @@
 </a><a href="https://riptutorial.com/assembly" target="blank">  <img src="https://img.shields.io/static/v1?label=Assembly&message=Language&color=grey&style=for-the-badge" height="25"/> </a>
 </a><a href="https://www.w3schools.com/java/" target="blank">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> </a>
 
-</a><a href="https://www.w3schools.com/MySQL/default.asp" target="blank">  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
+</a><a href="https://www.w3schools.com/MySQL/default.asp" target="blank">  <img src="https://img.shields.io/badge/mysql-%1f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
 
 
 </p
