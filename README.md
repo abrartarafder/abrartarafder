@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abrar Tarafder</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Bold+700&pause=70&color=F78538&center=false&vCenter=false&width=435&lines=Second+Year+CS+student;Passionate+about+learning+new+things;Tech+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=F78538&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page"></a>
+</p>
 
 <h3 align="center">A Computer Science student in Canada passionate about creating own projects</h3>
 <p align = "center">Working on some projects regarding topics I'm passionate about!</p>
