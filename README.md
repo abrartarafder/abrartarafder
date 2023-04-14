@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abrar Tarafder</h1>
 <h3 align="center">A Computer Science student in Mississauga, Canada, passionate about creating own projects</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Python+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
   
 <p align = "center">Working on some projects regarding topics I'm passionate about!</p>
 
