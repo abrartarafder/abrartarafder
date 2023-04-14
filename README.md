@@ -1,3 +1,5 @@
+<img src="https://github.com/PluckyPrecious/PluckyPrecious/blob/9565cf79245d4787c6fcade1bda5ceb011d287cd/F25AC92B-312E-4CD7-A884-AD0FDEC99A80.jpeg"> 
+
 <h1 align="center">Hi 👋, I'm Abrar Tarafder</h1>
 
 <p align="center">
