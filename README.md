@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrartarafder&show_icons=true&locale=en&layout=compact&theme=rose" alt="abrartarafder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrartarafder&theme=windows-dark&show_icons=true&locale=en" alt="abrartarafder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrartarafder&theme=gruvbox&show_icons=true&locale=en" alt="abrartarafder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrartarafder&theme=blueberry-duo" alt="abrartarafder" /></p>
 
