@@ -48,7 +48,7 @@
 <a href="mailto:patelkvin04@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/abrar.tarafder"><img src="https://img.shields.io/badge/-@abrar.tarafder-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.leetcode.com/abrart1075"><img src="https://img.shields.io/badge/-abrart1075-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://discord.gg/rari1075#0787"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 
