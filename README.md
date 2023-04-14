@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abrar Tarafder</h1>
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=F78538&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=F78538&center=true&vCenter=true&lines=Hi,+welcome+to+my+Github+page"></a>
 </p>
 
 <h3 align="center">A Computer Science student in Canada passionate about creating own projects</h3>
