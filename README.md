@@ -19,7 +19,7 @@
 
 - <a href="https://www.linkedin.com/in/abrar-jawad-tarafder-3592a4224/"><img src="https://img.shields.io/badge/Know about my Experiences: -Abrar%20Tarafder-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-- <a href="https://abrart1075.wixsite.com/my-site"><img src="https://img.shields.io/badge/-Check out my Website: abrart1075-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+- <a href="https://abrart1075.wixsite.com/my-site"><img src="https://img.shields.io/badge/-Check out my Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
 - ⚡ Quick facts: **I love being active, problem solving and social media**
 
