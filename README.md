@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently working on: **Hangman Game, Calculator, Algorithms and other projects** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+- 🔭 Currently working on: **Hangman Game, Calculator, Algorithms and other projects** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
 
 - 📫 Reach out to me at: **abrart1075@gmail.com**
 
