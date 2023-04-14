@@ -15,11 +15,11 @@
 
 - 🔭 Currently working on: **Hangman Game, Calculator, Algorithms and other projects**
 
-- 📫 Reach out to me at: **abrart1075@gmail.com**
+- 📫 Reach out to me at: <a href="mailto:abrart1075@gmail.com"><img src="https://img.shields.io/badge/-abrart1075@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
-- 📄 Know about my experiences: [My LinkedIn](https://www.linkedin.com/in/abrar-tarafder-3592a4224/)
+- 📄 Know about my experiences: <a href="https://www.linkedin.com/in/abrar-jawad-tarafder-3592a4224/"><img src="https://img.shields.io/badge/-Abrar%20Tarafder-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-- 📄 Check out my [website](https://abrart1075.wixsite.com/my-site)
+- 📄 Check out <a href="https://abrart1075.wixsite.com/my-site"><img src="https://img.shields.io/badge/-Abrar Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
 - ⚡ Quick facts: **I love being active, problem solving and social media**
 
