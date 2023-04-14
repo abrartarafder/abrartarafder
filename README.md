@@ -37,7 +37,6 @@
 </p
 </p>
 
-![](https://komarev.com/ghpvc/?username=abrartarafder&color=orange)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrartarafder&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="abrartarafder" /></p>
 
