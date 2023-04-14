@@ -40,7 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrartarafder&" alt="abrartarafder" /></p>
 
-### :link: &nbsp;Connect with me
+### Connect with me
 
 <p align="center">
 <a href="https://kevinpatel.me/blog"><img src="https://img.shields.io/badge/-kevinpatel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
