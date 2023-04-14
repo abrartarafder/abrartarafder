@@ -15,7 +15,7 @@
 
 - 🔭 Currently working on: **Hangman Game, Calculator, Algorithms and other projects**
 
-- 📫 Reach out to me at: <a href="mailto:abrart1075@gmail.com"><img src="https://img.shields.io/badge/-abrart1075@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+- 📫 <a href="mailto:abrart1075@gmail.com"><img src="https://img.shields.io/badge/Reach out to me: -abrart1075@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 - 📄 Know about my experiences: <a href="https://www.linkedin.com/in/abrar-jawad-tarafder-3592a4224/"><img src="https://img.shields.io/badge/-Abrar%20Tarafder-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
