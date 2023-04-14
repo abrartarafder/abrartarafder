@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abrar Tarafder</h1>
 <h3 align="center">A Computer Science student in Mississauga, Canada, passionate about creating own projects</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Second+Year+CS+Student;Tech+Enthusiast+with+2+Years+Experience;Passionate+about+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Bold+700&pause=70&color=F78538&width=435&lines=Second+Year+CS+student;Passionate+about+learning+new+things;Tech+Enthusiast)](https://git.io/typing-svg)
 
   
 <p align = "center">Working on some projects regarding topics I'm passionate about!</p>
