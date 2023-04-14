@@ -14,6 +14,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Currently working on: **Hangman Game, Calculator, Algorithms and other projects**
+- - ⚡ Quick facts: **I love being active, problem solving and social media**
+
 
 - <a href="mailto:abrart1075@gmail.com"><img src="https://img.shields.io/badge/Reach out to me: -abrart1075@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
@@ -21,7 +23,7 @@
 
 - <a href="https://abrart1075.wixsite.com/my-site"><img src="https://img.shields.io/badge/-Check out my Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
-- ⚡ Quick facts: **I love being active, problem solving and social media**
+
 
 
 <h3 align="left">All the Languages and Tools I used so far:</h3>
