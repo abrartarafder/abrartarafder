@@ -58,5 +58,5 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=abrartarafder&color=orange)
 
+<p><img align="center" src="https://komarev.com/ghpvc/?username=abrartarafder&color=orange" alt="abrartarafder" /></p>
