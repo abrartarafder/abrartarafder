@@ -46,7 +46,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrartarafder&theme=gruvbox" alt="abrartarafder" /></p>
 
-### Connect with me
+<h3 align="center">Connect with me</h3>
 
 <p align="center">
 <a href="https://abrart1075.wixsite.com/my-site"><img src="https://img.shields.io/badge/-Abrar Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
