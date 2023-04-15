@@ -57,6 +57,4 @@
 <a href="https://discord.gg/rari1075#0787"><img src="https://img.shields.io/badge/rari0787-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-
-
-<p><img align="center" src="https://komarev.com/ghpvc/?username=abrartarafder&color=orange" alt="abrartarafder" /></p>
+<p><img align="right" src="https://komarev.com/ghpvc/?username=abrartarafder&color=orange" alt="abrartarafder" /></p>
