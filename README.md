@@ -31,7 +31,24 @@
 </a><a href="https://riptutorial.com/assembly" target="blank">  <img src="https://img.shields.io/static/v1?label=Assembly&message=Language&color=grey&style=for-the-badge" height="25"/> </a>
 </a><a href="https://www.w3schools.com/java/" target="blank">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> </a>
 
+</a><a href="https://www.w3schools.com/java/" target="blank">  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </a>
+
+</a><a href="https://www.w3schools.com/java/" target="blank">  <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/> </a>
+
+</a><a href="https://www.w3schools.com/java/" target="blank">  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/> </a>
+
 </a><a href="https://www.w3schools.com/MySQL/default.asp" target="blank">  <img src="https://img.shields.io/badge/mysql-%1f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
+
+</a><a href="https://www.w3schools.com/MySQL/default.asp" target="blank">  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
+
+</a><a href="https://www.w3schools.com/MySQL/default.asp" target="blank">  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> </a>
+
+</a><a href="https://www.w3schools.com/java/" target="blank">  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </a>
+
+
+</a><a href="https://www.w3schools.com/java/" target="blank">  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=whit"/> </a>
+
+</a><a href="https://www.w3schools.com/java/" target="blank">  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> </a>
 
 
 </p
