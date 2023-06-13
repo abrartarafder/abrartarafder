@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently working on: **Hangman Game, Calculator, Algorithms and other projects**
+- 🔭 Currently working on: **MERN Stack project, Portfolio Website**
 - ⚡ Quick facts: **I love being active, problem solving and social media**
 
 
