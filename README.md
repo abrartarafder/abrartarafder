@@ -1,14 +1,12 @@
 <img src="https://github.com/abrartarafder/abrartarafder/blob/main/Toronto%20Skyline.jpg"> 
 
 <h1 align="center">Hi 👋, I'm Abrar Jawad Tarafder</h1>
-<h3 align="center">A Computer Science student in Canada passionate about creating own projects</h3>
-<p align = "center">Working on some projects regarding topics I'm passionate about!</p>
-
 <p align="center">
   <a href="https://github.com/abrartarafder"><img src="https://readme-typing-svg.herokuapp.com?color=F78538&font=Ubuntu+Bold+700&pause=70&center=true&vCenter=true&lines=Welcome+to+my+Github+page;Feel+free+to+connect+with+me!"></a>
 </p>
 
-
+<h3 align="center">I am a Computer Science student in Canada passionate about creating own projects</h3>
+<p align = "center">Working on some projects regarding topics I'm passionate about!</p>
 
 <p align="center"> <a href="https://github.com/abrartarafder"><img src="https://github-profile-trophy.vercel.app/?username=abrartarafder&theme=gruvbox" alt="abrartarafder" /></a> </p>
 
