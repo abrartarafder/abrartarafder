@@ -1,7 +1,6 @@
 <img src="https://github.com/abrartarafder/abrartarafder/blob/main/Toronto%20Skyline.jpg"> 
 
 <h1 align="center">Hi 👋, I'm Abrar Jawad Tarafder</h1>
-
 <h3 align="center">A Computer Science student in Canada passionate about creating own projects</h3>
 <p align = "center">Working on some projects regarding topics I'm passionate about!</p>
 
