@@ -21,7 +21,8 @@
 
 - <a href="https://www.linkedin.com/in/abrar-jawad-tarafder-3592a4224/"><img src="https://img.shields.io/badge/Know about my Experiences: -Abrar%20Tarafder-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-- <a href="https://abrartarafder.github.io/"><img src="https://img.shields.io/badge/-Check out my Github Website (New and under dev)-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+- <a href="https://abrartarafder.github.io/portfolio-short/"><img src="https://img.shields.io/badge/-Check out my short/easy-access to links portfolio (New and under dev)-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+- <a href="https://abrartarafder.github.io/"><img src="https://img.shields.io/badge/-Check out my Website (New and under dev)-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 - <a href="https://abrart1075.wixsite.com/my-site"><img src="https://img.shields.io/badge/-Check out my Wix Website (Old)-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
 
@@ -54,7 +55,7 @@
 
 <p align="center">
 <a href="https://abrart1075.wixsite.com/my-site"><img src="https://img.shields.io/badge/-Abrar Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abrar-jawad-tarafder-3592a4224/"><img src="https://img.shields.io/badge/-Abrar%20Tarafder-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abrar-tarafder/"><img src="https://img.shields.io/badge/-Abrar%20Tarafder-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abrart1075@gmail.com"><img src="https://img.shields.io/badge/-abrart1075@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/abrar.tarafder"><img src="https://img.shields.io/badge/-@abrar.tarafder-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.leetcode.com/abrart1075"><img src="https://img.shields.io/badge/-abrart1075-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
