@@ -57,8 +57,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrartarafder&theme=gruvbox" alt="abrartarafder" /></p>
 
-<h3 align="center">Connect With Me</h3>
+<br>
 
+<h3 align="center">Connect With Me</h3>
+<br>
 <p align="center">
 <a href="https://abrart1075.wixsite.com/my-site"><img src="https://img.shields.io/badge/-Abrar Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abrar-tarafder/"><img src="https://img.shields.io/badge/-Abrar%20Tarafder-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
