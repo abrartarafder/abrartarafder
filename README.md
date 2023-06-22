@@ -44,7 +44,7 @@
 </a><a href="https://education.rstudio.com/learn/beginner/" target="blank">  <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/> </a></a><a href="https://replit.com/~" target="blank">  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/> </a><a href="https://www.w3schools.com/MySQL/default.asp" target="blank">  <img src="https://img.shields.io/badge/mysql-%1f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </a><a href="https://www.mongodb.com/docs/manual/tutorial/getting-started/" target="blank">  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a><a href="https://www.canva.com/" target="blank">  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> </a><a href="https://www.w3schools.com/js/DEFAULT.asp" target="blank">  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a><a href="https://www.office.com/" target="blank">  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=whit"/></a><a href="https://www.markdownguide.org/" target="blank">  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> </a>
 
-
+<br>
 </p
 </p>
 
