@@ -21,10 +21,8 @@
 
 - <a href="https://www.linkedin.com/in/abrar-tarafder/"><img src="https://img.shields.io/badge/Know about my Experiences: -Abrar%20Tarafder-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<a href="https://abrartarafder.github.io/portfolio-short/">
-  <img src="https://img.shields.io/badge/-Check out my short and easy access portfolio for all links-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"
-       style="background-color: #FF0000;"/>
-</a>
+- <a href="https://abrartarafder.github.io/portfolio-short/">
+  <img src="https://img.shields.io/badge/-Check out my short and easy access portfolio for all links-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"style="background-color: #FF0000;"/></a>
 - <a href="https://abrartarafder.github.io/"><img src="https://img.shields.io/badge/-Check out my Website (New and under dev)-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 - <a href="https://abrart1075.wixsite.com/my-site"><img src="https://img.shields.io/badge/-Check out my Wix Website (Old)-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
