@@ -16,7 +16,7 @@
 - 🔭 Currently working on:
   <br>
   <br>
-  </a><a href="https://github.com/abrartarafder/MERN-Stack-Projects"><img src="https://img.shields.io/badge/-MERN STACK Projects-f55d16?style=for-the-badge"/></a>   <a href="https://abrartarafder.github.io/portfolio-short/"><img src="https://img.shields.io/badge/-Portfolio Website-c5e866?style=for-the-badge&"/></a>
+  </a><a href="https://github.com/abrartarafder/MERN-Stack-Projects"><img src="https://img.shields.io/badge/-MERN STACK Projects-f55d16?style=for-the-badge"/></a>   <a href="https://github.com/abrartarafder/abrartarafder.github.io"><img src="https://img.shields.io/badge/-Portfolio Website-c5e866?style=for-the-badge&"/></a>
 - ⚡ Quick facts: **I love being active, problem solving and social media**
 
 
