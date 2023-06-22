@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- <a href="https://abrartarafder.github.io/portfolio-short/"><img src="https://img.shields.io/badge/-🔭 Currently working on:-097969?style=for-the-badge&logo=Google-Chrome&logoColor=white"/> </a><a href="https://abrartarafder.github.io/portfolio-short/"><img src="https://img.shields.io/badge/-MERN STACK Projects-097969?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>, <a href="https://abrartarafder.github.io/portfolio-short/"><img src="https://img.shields.io/badge/-MERN STACK Projects-097969?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+- <a href="https://abrartarafder.github.io/portfolio-short/"><img src="https://img.shields.io/badge/-🔭 Currently working on:-097969?style=for-the-badge&logo=Google-Chrome&logoColor=white"/> </a><a href="https://abrartarafder.github.io/portfolio-short/"><img src="https://img.shields.io/badge/-MERN STACK Projects-097969?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>   <a href="https://abrartarafder.github.io/portfolio-short/"><img src="https://img.shields.io/badge/-MERN STACK Projects-097969?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 - ⚡ Quick facts: **I love being active, problem solving and social media**
 
 
