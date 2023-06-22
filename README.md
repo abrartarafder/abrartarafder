@@ -23,7 +23,7 @@
 
 - <a href="https://abrartarafder.github.io/portfolio-short/"><img src="https://img.shields.io/badge/-Check out my short and easy access portfolio for all links-097969?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> 
 - <a href="https://abrartarafder.github.io/"><img src="https://img.shields.io/badge/-Check out my Website (New and under dev)-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-- <a href="https://abrart1075.wixsite.com/my-site"><img src="https://img.shields.io/badge/-Check out my Wix Website (Old)-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+- <a href="https://abrart1075.wixsite.com/my-site"><img src="https://img.shields.io/badge/-Check out my Wix Website (Old)-FF5733?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
 
 
