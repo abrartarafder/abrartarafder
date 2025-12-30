@@ -1,6 +1,6 @@
 <img src="https://github.com/abrartarafder/abrartarafder/blob/main/Toronto%20Skyline.jpg" />
 
-<h1 align="center">Hi 👋, I'm Abrar Jawad Tarafder</h1>
+<h1 align="center">Hi! I'm Abrar Jawad Tarafder</h1>
 
 <p align="center">
   <a href="https://github.com/abrartarafder">
