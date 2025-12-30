@@ -24,7 +24,7 @@ Computer Science student in Canada focused on building impactful software throug
   <li> Continuous learning through hands-on experimentation and collaboration</li>
 </ul>
 
-<p align="center">
+<p align="left">
   <a href="https://abrartarafder.github.io/">
     <img src="https://img.shields.io/badge/-Personal%20Website-000?style=for-the-badge&logo=google-chrome" />
   </a>
@@ -34,7 +34,7 @@ Computer Science student in Canada focused on building impactful software throug
 </p>
 
 
-<p align="center">
+<p align="left">
 <b>Quick facts:</b> I enjoy staying active, solving challenging problems, and building a strong online presence through impactful projects.
 </p>
 
