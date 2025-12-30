@@ -24,7 +24,7 @@ Computer Science student in Canada focused on building impactful software throug
   <li> Continuous learning through hands-on experimentation and collaboration</li>
 </ul>
 
-<p align="left">
+<p align="center">
   <a href="https://abrartarafder.github.io/">
     <img src="https://img.shields.io/badge/-Personal%20Website-000?style=for-the-badge&logo=google-chrome" />
   </a>
