@@ -28,8 +28,8 @@ I enjoy working on projects that combine problem-solving, system design, and rea
 </ul>
 
 <p align="center">
-  <a href="https://abrartarafder.github.io/#about">
-    <img src="https://img.shields.io/badge/-About Me-097969?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  <a href="https://abrartarafder.github.io/">
+    <img src="https://img.shields.io/badge/-View My Website-097969?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://abrartarafder.github.io/abrar-cv-expanded/">
     <img src="https://img.shields.io/badge/-View My Expanded CV-0489E4?style=for-the-badge&logo=ReadMe&logoColor=white" />
