@@ -99,15 +99,15 @@ Used to practice UI/UX design, deployment, and frontend development fundamentals
   <img src="https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva" />
   <img src="https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code" />
 
-  <!-- Added tools -->
+  <!-- Added tools (fixed logos) -->
   <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/-Power%20BI-000?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/-Power%20BI-000?style=for-the-badge&logo=microsoft-power-bi" />
   <img src="https://img.shields.io/badge/-SharePoint-000?style=for-the-badge&logo=microsoft-sharepoint" />
-  <img src="https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira" />
+  <img src="https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion" />
-  <img src="https://img.shields.io/badge/-LaTeX-000?style=for-the-badge&logo=latex" />
-  <img src="https://img.shields.io/badge/-Mermaid-000?style=for-the-badge&logo=mermaid" />
+  <img src="https://img.shields.io/badge/-LaTeX-000?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Mermaid-000?style=for-the-badge&logo=mermaid&logoColor=ff4f8b" />
 </p>
 
 
