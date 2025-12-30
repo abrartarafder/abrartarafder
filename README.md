@@ -88,9 +88,6 @@ I enjoy working on projects that combine problem-solving, system design, and rea
   <a href="https://www.leetcode.com/abrart1075">
     <img src="https://img.shields.io/badge/LeetCode-abrart1075-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://instagram.com/abrar.tarafder">
-    <img src="https://img.shields.io/badge/Instagram-@abrar.tarafder-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
