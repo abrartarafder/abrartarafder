@@ -9,12 +9,8 @@
 </p>
 
 <h3 align="center">
-Computer Science Student in Canada passionate about building meaningful software projects
+Computer Science student in Canada focused on building impactful software through problem-solving and design.
 </h3>
-
-<p align="center">
-I enjoy working on projects that combine problem-solving, system design, and real-world impact.
-</p>
 
 ---
 
@@ -30,12 +26,13 @@ I enjoy working on projects that combine problem-solving, system design, and rea
 
 <p align="center">
   <a href="https://abrartarafder.github.io/">
-    <img src="https://img.shields.io/badge/-View My Website-097969?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Personal%20Website-000?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="https://abrartarafder.github.io/abrar-cv-expanded/">
-    <img src="https://img.shields.io/badge/-View My Expanded CV-0489E4?style=for-the-badge&logo=ReadMe&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Expanded%20CV-000?style=for-the-badge&logo=readme" />
   </a>
 </p>
+
 
 <p align="center">
 <b>Quick facts:</b> I enjoy staying active, solving challenging problems, and building a strong online presence through impactful projects.
