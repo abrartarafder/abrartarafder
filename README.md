@@ -58,7 +58,7 @@ Computer Science student in Canada focused on building impactful software throug
 #### **Edify — AI-Driven Personalized Learning Platform**
 AI-powered personalized learning platform aligned with the **UN Sustainable Development Goal: Quality Education**.  
 Adapts content to individual learning styles while prioritizing privacy and safety for children.  
-🏆 Top 8 of 150+ teams · Cohort Winner · People’s Choice Award · Startup invitation.
+Top 8 of 150+ teams · Cohort Winner · People’s Choice Award · Startup invitation.
 
 #### **Google Data Analytics Project**
 Data analytics project focused on designing marketing strategies to convert casual users into annual members.  
