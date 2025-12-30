@@ -98,8 +98,6 @@ Used to practice UI/UX design, deployment, and frontend development fundamentals
   <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma" />
   <img src="https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva" />
   <img src="https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code" />
-
-  <!-- Added tools (fixed logos) -->
   <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/-Power%20BI-000?style=for-the-badge&logo=microsoft-power-bi" />
@@ -108,7 +106,24 @@ Used to practice UI/UX design, deployment, and frontend development fundamentals
   <img src="https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion" />
   <img src="https://img.shields.io/badge/-LaTeX-000?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/-Mermaid-000?style=for-the-badge&logo=mermaid&logoColor=ff4f8b" />
+
+  <!-- Missing items added -->
+  <img src="https://img.shields.io/badge/-GitLab%20CI%2FCD-000?style=for-the-badge&logo=gitlab" />
+  <img src="https://img.shields.io/badge/-Mailchimp-000?style=for-the-badge&logo=mailchimp" />
+  <img src="https://img.shields.io/badge/-Oracle%20SQL%20Developer-000?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/-Tkinter-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-Shell%20Scripting-000?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/-YAML-000?style=for-the-badge&logo=yaml" />
+  <img src="https://img.shields.io/badge/-DevOps-000?style=for-the-badge&logo=devops" />
+
+  <!-- No reliable SimpleIcons logos (clean text badges) -->
+  <img src="https://img.shields.io/badge/-Kanban-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Infinity%20(Task%20Management)-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Assembly%20%2B%20C-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Data%20Analytics-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SCADA-000?style=for-the-badge" />
 </p>
+
 
 
 ---
