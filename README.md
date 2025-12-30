@@ -18,7 +18,8 @@ I enjoy working on projects that combine problem-solving, system design, and rea
 
 ---
 
-<h3 align="center">What I'm Currently Focusing On</h3>
+
+## What I'm Currently Focusing On
 
 <ul>
   <li> Designing and developing <b>full-stack applications</b> using modern web technologies</li>
@@ -53,7 +54,7 @@ I enjoy working on projects that combine problem-solving, system design, and rea
   </a>
 </p>
 
-## 📌 Project Highlights
+## Project Highlights
 
 #### **Edify — AI-Driven Personalized Learning Platform**
 AI-powered personalized learning platform aligned with the **UN Sustainable Development Goal: Quality Education**.  
