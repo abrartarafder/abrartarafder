@@ -53,6 +53,55 @@ I enjoy working on projects that combine problem-solving, system design, and rea
   </a>
 </p>
 
+## 📌 Project Highlights
+
+### **Edify — AI-Driven Personalized Learning Platform**
+*UNHack 2023 | Oct 2023 – Present*
+
+AI-powered personalized learning platform aligned with the **UN Sustainable Development Goal: Quality Education**.  
+Designed to adapt content to individual learning styles while prioritizing privacy and safety for children.  
+🏆 Top 8 of 150+ teams · Cohort Winner · People’s Choice Award · Startup invitation.
+
+---
+
+### **Google Data Analytics Project**
+*Jan 2023 – Mar 2023*
+
+Data analytics project focused on designing marketing strategies to convert casual users into annual members.  
+Used **Excel and SQL** to explore, analyze, and visualize user behavior data and present actionable insights.
+
+---
+
+### **Smaller GitHub Projects**
+*Jan 2021 – Mar 2023*
+
+Collection of frontend, backend, and hackathon projects showcasing growth across web development and data analytics.  
+Includes MERN stack exploration, beginner backend projects, and collaborative hackathon work.
+
+---
+
+### **YouTrack**
+*Hackathon Project | Jan 2022*
+
+Web-based flight tracking application built during a hackathon.  
+Focused on real-time data handling, aviation data visualization, and collaborative development.
+
+---
+
+### **SAFE**
+*Hackathon Project | Oct 2021*
+
+Mobile app concept for securely storing sensitive user data.  
+Implemented password-based protection for personal information such as credentials and notes.
+
+---
+
+### **Portfolio Websites**
+
+Multiple personal websites built using **HTML, CSS, and JavaScript**.  
+Used to practice UI/UX design, deployment, and web development fundamentals.
+
+
 ---
 
 <h3 align="center">Languages & Tools</h3>
