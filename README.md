@@ -109,15 +109,16 @@ Used to practice UI/UX design, deployment, and frontend development fundamentals
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abrar-tarafder/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abrar%20Tarafder-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:abrart1075@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abrart1075@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.leetcode.com/abrart1075">
-    <img src="https://img.shields.io/badge/LeetCode-abrart1075-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abrartarafder&color=orange" />
