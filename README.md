@@ -46,13 +46,17 @@ I enjoy working on projects that combine problem-solving, system design, and rea
 ## Project Highlights
 
 <p align="center">
-  <a href="https://github.com/abrartarafder/MERN-Stack-Projects">
-    <img src="https://img.shields.io/badge/-MERN Stack Projects-f55d16?style=for-the-badge" />
-  </a>
   <a href="https://abrartarafder.github.io/">
-    <img src="https://img.shields.io/badge/-Portfolio Website-c5e866?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Personal%20Website-000?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://abrartarafder.github.io/abrar-cv-expanded/">
+    <img src="https://img.shields.io/badge/-Expanded%20CV-000?style=for-the-badge&logo=readme" />
+  </a>
+  <a href="https://github.com/abrartarafder?tab=repositories">
+    <img src="https://img.shields.io/badge/-GitHub%20Projects-000?style=for-the-badge&logo=github" />
   </a>
 </p>
+
 
 #### **Edify — AI-Driven Personalized Learning Platform**
 AI-powered personalized learning platform aligned with the **UN Sustainable Development Goal: Quality Education**.  
@@ -83,20 +87,20 @@ Used to practice UI/UX design, deployment, and frontend development fundamentals
 ## Languages & Tools 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-1f5f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva" />
+  <img src="https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
 ---
