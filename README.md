@@ -38,7 +38,7 @@ I enjoy working on projects that combine problem-solving, system design, and rea
 </p>
 
 <p align="center">
-⚡ <b>Quick facts:</b> I enjoy staying active, solving challenging problems, and building a strong online presence through impactful projects.
+<b>Quick facts:</b> I enjoy staying active, solving challenging problems, and building a strong online presence through impactful projects.
 </p>
 
 ---
