@@ -45,9 +45,6 @@
 </p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrartarafder&theme=gruvbox" alt="abrartarafder" /></p>
-
 <br>
 
 <h3 align="center">Connect With Me</h3>
