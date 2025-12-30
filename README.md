@@ -21,10 +21,10 @@ I enjoy working on projects that combine problem-solving, system design, and rea
 <h3 align="center">What I'm Currently Focusing On</h3>
 
 <ul>
-  <li>🚀 Designing and developing <b>full-stack applications</b> using modern web technologies</li>
-  <li>💻 Strengthening my foundation in <b>Computer Science</b> (data structures, algorithms, databases)</li>
-  <li>📊 Applying <b>software development and data analysis</b> skills through academic and personal projects</li>
-  <li>🌱 Continuous learning through hands-on experimentation and collaboration</li>
+  <li> Designing and developing <b>full-stack applications</b> using modern web technologies</li>
+  <li> Strengthening my foundation in <b>Computer Science</b> (data structures, algorithms, databases)</li>
+  <li> Applying <b>software development and data analysis</b> skills through academic and personal projects</li>
+  <li> Continuous learning through hands-on experimentation and collaboration</li>
 </ul>
 
 <p align="center">
