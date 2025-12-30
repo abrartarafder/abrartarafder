@@ -8,9 +8,6 @@
 <h3 align="center">I am a Computer Science student in Canada passionate about creating own projects</h3>
 <p align = "center">Working on some projects regarding topics I'm passionate about!</p>
 
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="center">What I'm Currently Focusing On</h3>
 
 - 🔭 Currently working on:
