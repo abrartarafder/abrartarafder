@@ -43,7 +43,7 @@ I enjoy working on projects that combine problem-solving, system design, and rea
 
 ---
 
-<h3 align="center">Projects & Portfolio</h3>
+## Project Highlights
 
 <p align="center">
   <a href="https://github.com/abrartarafder/MERN-Stack-Projects">
@@ -53,8 +53,6 @@ I enjoy working on projects that combine problem-solving, system design, and rea
     <img src="https://img.shields.io/badge/-Portfolio Website-c5e866?style=for-the-badge" />
   </a>
 </p>
-
-## Project Highlights
 
 #### **Edify — AI-Driven Personalized Learning Platform**
 AI-powered personalized learning platform aligned with the **UN Sustainable Development Goal: Quality Education**.  
@@ -82,7 +80,7 @@ Multiple personal websites built using **HTML, CSS, and JavaScript**.
 Used to practice UI/UX design, deployment, and frontend development fundamentals.
 
 
-<h3 align="center">Languages & Tools</h3>
+## Languages & Tools 
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -103,7 +101,7 @@ Used to practice UI/UX design, deployment, and frontend development fundamentals
 
 ---
 
-<h3 align="center">Connect With Me</h3>
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abrar-tarafder/">
