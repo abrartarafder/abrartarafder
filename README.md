@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=23&duration=3000&pause=1000&color=F78538&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate+%40+York+University;Software+Development+%7C+Data+Engineering;AI+%7C+Automation+%7C+Data+Analytics;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
   </a>
 
-  <h3>New Computer Science Graduate | Developer | Data & AI Enthusiast | Aerial Photographer </h3>
+  <h3>New Computer Science Graduate | Developer | Data & AI Enthusiast </h3>
 
   <p>Toronto, Ontario, Canada</p>
 
