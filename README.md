@@ -68,6 +68,22 @@ Designed a normalized relational database and star schema to analyze cruise pric
 - Built an **AI-powered analytics assistant** supporting natural-language data queries.
 - Integrated local LLMs, SQL validation, interactive charts, and traceable analytical insights.
 
+[View Project](https://github.com/abrartarafder/Cruise-Critic-SQL-PowerBI-AI)
+
+
+### Atlas AI | AI-Powered Research Workspace
+
+**Technologies:** Python, LangChain, OpenAI API, Streamlit, Pydantic, DDGS, ReportLab
+
+Developed an **AI-powered research assistant** that performs multi-step web research, executes tool calls, and generates structured research briefs with verifiable source links.
+
+- Built a **LangChain AI agent** integrating web search and calculation tools for automated research and analysis.
+- Implemented **conversation memory, structured Pydantic outputs, and configurable research depth** to support contextual follow-up questions.
+- Developed an **interactive Streamlit interface** with research activity tracking, source validation, and downloadable PDF reports.
+
+[View Project](https://github.com/abrartarafder/AtlasAI-Research-Workspace)
+
+
 ### TTC Network Analysis | Graph Algorithms & Transportation Analytics
 
 **Technologies:** Python, NetworkX, Graph Algorithms, ArcGIS, Data Visualization
@@ -90,6 +106,8 @@ Developed a grocery-focused full-stack application emphasizing user experience, 
 - Worked on application architecture, data management, and user-facing functionality.
 - Applied software engineering principles throughout development.
 
+[View Project](https://www.youtube.com/watch?v=aN122Q4diGU)
+
 ### Edify | AI-Driven Personalized Learning Platform
 
 **Focus:** Artificial Intelligence, Education Technology, UI/UX
@@ -99,6 +117,8 @@ Developed an AI-driven personalized learning platform aligned with the United Na
 - Designed personalized learning experiences that adapt to different learning needs.
 - Prioritized privacy, accessibility, and child safety.
 - Recognized as a **Top 8 finalist among 150+ teams**, Cohort Winner, and People's Choice Award recipient.
+
+[View Project](https://edifylearning.github.io/EdifyWebsite/)
 
 ### Additional Projects
 
