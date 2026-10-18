@@ -40,7 +40,7 @@ My professional experience includes:
 - **WalkWithWeb:** Built responsive web applications, designed Figma prototypes, and supported digital research and analytics initiatives.
 - **Opal LLC:** Contributed to frontend development, application prototyping, and digital marketing initiatives.
 
-I'm currently exploring opportunities in **Software Development, Data Engineering, Database Development, Business/Data Analytics, and Technical Project roles**.
+I'm currently exploring opportunities in **AI Development, Software Development, Data Engineering, Database Development, Business/Data Analytics, and Technical Project roles**.
 
 Outside of technology, I'm also passionate about drone photography, travel, and exploring new perspectives through aerial imagery. I enjoy combining my technical and creative interests, whether that's developing software or capturing landscapes from above. The Toronto skyline featured at the top of this profile is one of my own drone photographs! 
 
