@@ -1,6 +1,7 @@
 
 <div align="center">
   <img src="https://github.com/abrartarafder/abrartarafder/blob/main/DJI_20260924192932_0082_D.png?raw=true" alt="Toronto Skyline" width="100%"/>
+  <sub>Toronto Skyline at Sunset | Captured by me using my drone</sub>
 
   <h1>Hi! I'm Abrar Jawad Tarafder</h1>
 
