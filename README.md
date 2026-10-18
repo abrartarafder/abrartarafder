@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="https://github.com/abrartarafder/abrartarafder/blob/main/DJI_20260924192932_0082_D.png?raw=true" alt="Toronto Skyline" width="100%"/>
-  <sub>Toronto Skyline at Sunset | Captured by me using my drone</sub>
+  <sub>Toronto Skyline at Sunset that I Captured Using My Drone! </sub>
 
   <h1>Hi! I'm Abrar Jawad Tarafder</h1>
 
@@ -41,6 +41,8 @@ My professional experience includes:
 - **Opal LLC:** Contributed to frontend development, application prototyping, and digital marketing initiatives.
 
 I'm currently exploring opportunities in **Software Development, Data Engineering, Database Development, Business/Data Analytics, and Technical Project roles**.
+
+Outside of technology, I'm also passionate about drone photography, travel, and exploring new perspectives through aerial imagery. I enjoy combining my technical and creative interests, whether that's developing software or capturing landscapes from above. The Toronto skyline featured at the top of this profile is one of my own drone photographs! 
 
 ---
 
