@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/abrartarafder/abrartarafder/blob/main/Toronto%20Skyline.jpg?raw=true" alt="Toronto Skyline" width="100%"/>
+  <img src="https://github.com/abrartarafder/abrartarafder/blob/main/DJI_20260924192932_0082_D.png?raw=true" alt="Toronto Skyline" width="100%"/>
 
   <h1>Hi! I'm Abrar Jawad Tarafder</h1>
 
