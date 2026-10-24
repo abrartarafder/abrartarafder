@@ -106,7 +106,7 @@ Developed a grocery-focused full-stack application emphasizing user experience, 
 - Worked on application architecture, data management, and user-facing functionality.
 - Applied software engineering principles throughout development.
 
-[View Project](https://www.youtube.com/watch?v=aN122Q4diGU)
+[View Project]([https://www.youtube.com/watch?v=aN122Q4diGU](https://github.com/abrartarafder/project-freshroute_teamab-public))
 
 ### Edify | AI-Driven Personalized Learning Platform
 
