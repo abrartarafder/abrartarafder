@@ -226,9 +226,6 @@ Relevant Coursework:
 <a href="https://abrartarafder.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome"/>
 </a>
-<a href="https://www.leetcode.com/abrart1075">
-  <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode"/>
-</a>
 
 <br><br>
 
