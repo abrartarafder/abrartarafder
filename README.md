@@ -183,7 +183,7 @@ Explore my other work involving web development, database systems, analytics, ha
 
 ---
 
-## Professional Experience
+## Professional Experience During My Undergraduate Studies 
 
 | Organization | Position | Period |
 |---|---|---|
@@ -198,9 +198,9 @@ Explore my other work involving web development, database systems, analytics, ha
 
 **York University — Lassonde School of Engineering**
 
-Honours Bachelor of Science (BSc), Computer Science
+Honours Bachelor of Science (BSc), Computer Science with First Class Standing! 
 
-**Graduated: August 2026**
+**Graduated: September 2026**
 
 Relevant Coursework:
 - Advanced Data Structures & Algorithms
