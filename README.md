@@ -15,16 +15,31 @@
 
   <p>
     <a href="https://abrartarafder.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
     </a>
     <a href="https://abrartarafder.github.io/abrar-cv-expanded/">
-      <img src="https://img.shields.io/badge/Expanded_CV-000000?style=for-the-badge&logo=readme&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Expanded_CV-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Expanded CV"/>
+    </a>
+    <a href="https://abrartarafder.github.io/portfolio-short/">
+      <img src="https://img.shields.io/badge/Project_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Project Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/abrar-tarafder/">
       <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </p>
 </div>
+
+---
+
+## Explore My Websites
+
+My three websites bring together my professional background, technical work, and creative interests. Choose where you'd like to start! PS: I know I don't really need 3 websites, but I really just love building them! 
+
+| Website | What you'll find |
+|---|---|
+| **[Personal Website](https://abrartarafder.github.io/)** | **Get to know me.** An introduction to my work in software, data, and design, with skills, experience highlights, featured technical projects, and my current focus. |
+| **[Expanded CV](https://abrartarafder.github.io/abrar-cv-expanded/)** | **Explore my experience in depth.** Detailed roles and accomplishments, education, technical skills, volunteering, certifications, and coursework, plus a downloadable resume. |
+| **[Project Portfolio](https://abrartarafder.github.io/portfolio-short/)** | **Explore my projects and creative interests.** A filterable collection spanning hackathons, game and web development, data analytics, AI, photography, and personal experiments. |
 
 ---
 
@@ -224,7 +239,13 @@ Relevant Coursework:
   <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
 </a>
 <a href="https://abrartarafder.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome"/>
+  <img src="https://img.shields.io/badge/Personal_Website-000?style=for-the-badge&logo=googlechrome" alt="Personal Website"/>
+</a>
+<a href="https://abrartarafder.github.io/abrar-cv-expanded/">
+  <img src="https://img.shields.io/badge/Expanded_CV-000?style=for-the-badge&logo=readme" alt="Expanded CV"/>
+</a>
+<a href="https://abrartarafder.github.io/portfolio-short/">
+  <img src="https://img.shields.io/badge/Project_Portfolio-000?style=for-the-badge&logo=githubpages" alt="Project Portfolio"/>
 </a>
 
 <br><br>
