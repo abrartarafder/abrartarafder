@@ -215,7 +215,7 @@ Explore my other work involving web development, database systems, analytics, ha
 
 Honours Bachelor of Science (BSc), Computer Science with First Class Standing! 
 
-**Graduated: September 2026**
+**Graduated: October 2026**
 
 Relevant Coursework:
 - Advanced Data Structures & Algorithms
