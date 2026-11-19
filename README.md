@@ -73,6 +73,18 @@ Outside of technology, I'm also passionate about drone photography, travel, and 
 
 ## Featured Projects
 
+### Utility Lens | Canadian Utilities Research Assistant
+
+**Technologies:** Python, LangChain, OpenAI API, Streamlit, Pydantic, DDGS, ReportLab
+
+Built an **AI research assistant for Ontario’s electricity grid and Canadian utilities**, inspired by my co-op experience at **Hydro One**.
+
+- Developed a **LangChain agent** with web search and calculation tools to research grid investment, utility reliability, and regulation.
+- Built a **Streamlit dashboard** with an Ontario city picker, contextual follow-up questions, and links to official utility and regulatory sources.
+- Generated **structured research briefs and downloadable PDF reports**, checking cited URLs against search results and sources from recent conversation history.
+
+[View Project](https://github.com/abrartarafder/utils-research)
+
 ### Cruise Critic | SQL, Power BI & AI Analytics
 
 **Technologies:** SQL, Power BI, DAX, Python, DuckDB, Streamlit, Ollama
