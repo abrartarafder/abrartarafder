@@ -262,6 +262,5 @@ Relevant Coursework:
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=abrartarafder&color=orange&style=flat-square" alt="Profile Views"/>
 
 </div>
